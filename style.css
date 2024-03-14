@@ -570,21 +570,21 @@ button.mobile {
         padding-bottom: 0;
     }
 
-    .cover {
-      object-fit: contain;
-    }
-
     .coverText {
-      text-align: center; 
-      padding: 20px; 
+      text-align: center;
+      padding: 80px;
+      position: relative; 
+      top: 50%; 
     }
 
     .coverText h1 {
-      font-size: 24px; 
+      font-size: 18px;
+      margin-top: 0; 
     }
 
     .coverText h2 {
-      font-size: 18px; 
+      font-size: 12px;
+      margin-top: 20px; 
     }
 
     .responsive .contact :hover {
@@ -602,11 +602,7 @@ button.mobile {
         font-size:25px;
     }
 
-   #welcome {
-    font-size: 80px;
-    object-fit: contain;
-    text-align: center;
-   }
+  
 
    .bg {
     
@@ -624,19 +620,6 @@ button.mobile {
         backdrop-filter: blur(2px);
         box-shadow: 0 10px 10px rgba(67, 67, 67, 0.1);
         object-fit: contain;
-   }
-
-   #toMy {
-    text-align: center;
-    font-size: 25px;
-    object-fit: contain;
-   }
-
-   #portfolio {
-    text-align: center;
-    font-size: 50px;
-    padding-top: 10px;
-    object-fit: contain;
    }
 
    .contentAbout p {
