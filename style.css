@@ -588,6 +588,7 @@ button.mobile {
    #welcome {
     font-size: 80px;
     object-fit: contain;
+    text-align: center;
    }
 
    .bg {
@@ -609,11 +610,13 @@ button.mobile {
    }
 
    #toMy {
+    text-align: center;
     font-size: 25px;
     object-fit: contain;
    }
 
    #portfolio {
+    text-align: center;
     font-size: 50px;
     padding-top: 10px;
     object-fit: contain;
