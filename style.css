@@ -587,6 +587,7 @@ button.mobile {
 
    #welcome {
     font-size: 80px;
+    object-fit: contain;
    }
 
    .bg {
@@ -604,15 +605,18 @@ button.mobile {
         padding: 25px 35px;
         backdrop-filter: blur(2px);
         box-shadow: 0 10px 10px rgba(67, 67, 67, 0.1);
+        object-fit: contain;
    }
 
    #toMy {
     font-size: 25px;
+    object-fit: contain;
    }
 
    #portfolio {
     font-size: 50px;
     padding-top: 10px;
+    object-fit: contain;
    }
 
    .contentAbout p {
