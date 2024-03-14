@@ -6,7 +6,9 @@ Hey there! 👋 Welcome to the repository for my personal portfolio website. I'm
 
 Inside this repository, you'll find everything you need to dive into my personal portfolio website. From HTML and CSS files defining the structure and styling to JavaScript files adding interactivity, it's all here! The website is optimised for mobile use as well.
 
-## Website link: https://popadana10.github.io/my_portfolio/
+## Website link:
+
+https://popadana10.github.io/my_portfolio/
 
 ## Get in Touch
 
