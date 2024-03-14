@@ -570,6 +570,23 @@ button.mobile {
         padding-bottom: 0;
     }
 
+    .cover {
+      object-fit: contain;
+    }
+
+    .coverText {
+      text-align: center; 
+      padding: 20px; 
+    }
+
+    .coverText h1 {
+      font-size: 24px; 
+    }
+
+    .coverText h2 {
+      font-size: 18px; 
+    }
+
     .responsive .contact :hover {
         display: none;
         color: #626237;
